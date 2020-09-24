@@ -21,4 +21,33 @@ module ired_holder()
     }
 }
 
-ired_holder();
+module mount_peg()
+{
+    segments1 = 100;
+    peg_len = 3;
+    peg_d = 5;
+    peg_canf_len = 1;
+    peg_canf_d2 = 4.9;
+    peg_canf_d1 = 3;
+    
+    difference()
+    {
+        union()
+        {
+            translate([0,0,-peg_len+.1])  {
+                cylinder( h=peg_len, d=peg_d, $fn=segments1);
+                translate([0,0,-peg_canf_len+0.1]) 
+                {
+                    cylinder( h=peg_canf_len, d1=peg_canf_d1, d2=peg_canf_d2, $fn=segments1);
+                }
+            }
+        }
+        translate([-peg_d/2,peg_d/2-peg_d/4,-peg_len-peg_canf_len+.1]) cube([peg_d+0.2, 2.0, peg_len+peg_canf_len]);
+    }
+}
+
+union()
+{
+    ired_holder();
+    mount_peg();
+}

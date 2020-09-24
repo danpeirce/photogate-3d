@@ -20,6 +20,9 @@ A rotated view with a simplified version of the IRED added (I did not bother cre
 
 ![](images/ired-holder-TT.png)
 
+Added a mounting peg to the holder.
+
+![](images/ired-holder-peg.png)
 
 ### Sensor Holder
 
