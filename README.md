@@ -21,7 +21,7 @@ A rotated view with a simplified version of the IRED added (I did not bother cre
 ![](images/ired-holder-TT.png)
 
 
-### Senser Holder
+### Sensor Holder
 
 *Still to come*
 
