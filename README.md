@@ -73,4 +73,4 @@ beam was between the leading bumper and first black strip.
 
 #### The Picket Fence
 
-![](picket-fence.jpg)
+![](images/picket-fence.jpg)
