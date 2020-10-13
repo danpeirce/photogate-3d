@@ -59,7 +59,7 @@ view from one angle below:
 
 ### Mock-up Photogate
 
-The wiring on the Mock-up was more visable.
+The wiring on the Mock-up was more visible.
 
 ![](images/mockup-photogate.jpg)
 
