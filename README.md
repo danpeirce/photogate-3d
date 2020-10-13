@@ -56,3 +56,21 @@ view from one angle below:
 ## Photogate with Cable
 
 ![](images/photogate.jpg)
+
+### Mock-up Photogate
+
+The wiring on the Mock-up was more visable.
+
+![](images/mockup-photogate.jpg)
+
+### Signal on DSO
+
+Signal obtained when picket fence was dropped through photogate.
+The Picket fence was released from rest in a position where the photogate 
+beam was between the leading bumper and first black strip.
+
+![](images/fence-signal.jpg)
+
+#### The Picket Fence
+
+![](picket-fence.jpg)
