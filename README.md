@@ -9,24 +9,36 @@ STL files created by Micheal Chernoff using solidworks.
 
 The first component holder is for the IR emitting diode.
 
-* [STL file for IR emitter diode holder](IRED_holder.STL)
+* [STL file for IR emitter diode holder](IRED_holder.STL) -- click link to view interactive model
 
-Click on link above for interactive 3D image of part.
+view from one angle below:
+
+![](inages/ired-holder.png)
 
 ### Sensor Holder
 
-* [STL file for IR Sensor Holder](IR_sensor_mount.STL)
+* [STL file for IR Sensor Holder](IR_sensor_mount.STL) -- click link to view interactive model
+
+view from one angle below:
 
 ![](images/ir-sensor-holder.png)
 
 ### Junction Board holder
 
-* [STL file for Junction Board holder](junction_board_mount_mount.STL)
+* [STL file for Junction Board holder](junction_board_mount_mount.STL) -- click link to view interactive model
+
+view from one angle below:
+
+![](images/junction-board-holder.png)
 
 ### Support Post
 
-* [STL file for Support Post](wire_support_pin.STL)
+* [STL file for Support Post](wire_support_pin.STL) -- click link to view interactive model
+
+view from one angle below:
+
+![](images/support-post.png)
 
 ## Base Part
 
-
+*{working on this}*
