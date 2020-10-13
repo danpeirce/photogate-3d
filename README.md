@@ -39,9 +39,15 @@ view from one angle below:
 
 ![](images/support-post.png)
 
-## IR Sensor and IR emitting diode mounted on a board-holder.
+## Photos of Parts
+
+### IR Sensor and IR emitting diode mounted on a boards.
 
 ![](images/ired-sensor-mounted.jpg)
+
+### Junction Board
+
+![](images/junction-brd.jpg)
 
 ## Base Part
 
