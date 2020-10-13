@@ -51,7 +51,10 @@ view from one angle below:
 
 ## Base Part
 
-*{working on this}*
+This is a PNG made from the design file of the part. Unlike the 3D printed parts the base plate and top plate 
+were laser cut from a sheet of plexiglass.
+
+![](images/base_plate.png)
 
 ## Photogate with Cable
 
