@@ -52,3 +52,7 @@ view from one angle below:
 ## Base Part
 
 *{working on this}*
+
+## Photogate with Cable
+
+![](images/photogate.jpg)
