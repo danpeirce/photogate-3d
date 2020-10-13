@@ -13,7 +13,7 @@ The first component holder is for the IR emitting diode.
 
 view from one angle below:
 
-![](inages/ired-holder.png)
+![](images/ired-holder.png)
 
 ### Sensor Holder
 
