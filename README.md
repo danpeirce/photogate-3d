@@ -17,6 +17,8 @@ Click on link above for interactive 3D image of part.
 
 * [STL file for IR Sensor Holder](IR_sensor_mount.STL)
 
+![](images/ir-sensor-holder.png)
+
 ### Junction Board holder
 
 * [STL file for Junction Board holder](junction_board_mount_mount.STL)
