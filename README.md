@@ -39,6 +39,10 @@ view from one angle below:
 
 ![](images/support-post.png)
 
+## IR Sensor and IR emitting diode mounted on a board-holder.
+
+![](images/ired-sensor-mounted.jpg)
+
 ## Base Part
 
 *{working on this}*
