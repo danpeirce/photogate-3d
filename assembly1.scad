@@ -4,7 +4,7 @@ include<../myfork/NopSCADlib/djp/junction-brd.scad>;
 translate([-21.6,-62.6,-10.5]) {
     %color("white", 0.5) {include<base_plate.scad>;}  // base plate
     
-    %color("white", 0.3) {                            // top late
+    %color("white", 0.3 {                            // top late
         translate([0,0,18.3]){
             include<base_plate.scad>;
         }
