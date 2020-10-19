@@ -60,6 +60,12 @@ were laser cut from a sheet of plexiglass.
 
 ![](images/photogate.jpg)
 
+### Virtual Photogate
+
+Working on virtual version of the photogate.
+
+![](images/photogate_virtual.jpg)
+
 ### Mock-up Photogate
 
 The wiring on the Mock-up was more visible.

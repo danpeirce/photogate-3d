@@ -1,34 +1,39 @@
-%color("white", 0.5) {include<base_plate.scad>;}  // base plate
-%color("white", 0.5) {                            // top late
-    translate([0,0,18.3]){
-	    include<base_plate.scad>;
-	}
-}
 
-color("black") {
-    translate([7, 25, -0.2]) {
-        rotate([0,-90, 180]) {
-            import("IR_sensor_mount.STL"); 
-		} 
-	}
-}
+include<../myfork/NopSCADlib/djp/junction-brd.scad>;
 
-color("black") {
-    translate([80, 12, -0.2]) {
-        rotate([0,-90, 90]) {
-            import("IRED_holder.STL"); 
-		} 
-	}
+translate([-21.6,-62.6,-10.5]) {
+    %color("white", 0.5) {include<base_plate.scad>;}  // base plate
+    
+    %color("white", 0.3) {                            // top late
+        translate([0,0,18.3]){
+            include<base_plate.scad>;
+        }
+    } 
+    
+    color("black") {
+        translate([7, 25, -0.2]) {
+            rotate([0,-90, 180]) {
+                import("IR_sensor_mount.STL"); 
+            } 
+        }
+    }
+    
+    color("black") {
+        translate([80, 12, -0.2]) {
+            rotate([0,-90, 90]) {
+                import("IRED_holder.STL"); 
+            } 
+        }
+    }
+    
+    color("black") {
+        translate([5, 76, -0.5]) {
+            rotate([0,0, -90]) {
+                import("junction_board_mount_mount.STL"); 
+            } 
+        }
+    }
 }
-
-color("black") {
-    translate([5, 76, -0.5]) {
-        rotate([0,0, -90]) {
-            import("junction_board_mount_mount.STL"); 
-		} 
-	}
-}
-
 
 /*
 gap_x = 76.22 / 2;
